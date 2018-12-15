@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ServletsInNuthsell:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServletsInNuthsell_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ServletsInNuthsell/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ServletsInNuthsell" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="org.mapstruct:mapstruct:1.2.0.Final" />
+          <element id="library" level="project" name="org.mapstruct:mapstruct-processor:1.2.0.Final" />
+          <element id="library" level="project" name="mysql:mysql-connector-java:8.0.12" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

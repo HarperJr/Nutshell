@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ServletsInNuthsell.iml" filepath="$PROJECT_DIR$/ServletsInNuthsell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringInNuthsell.iml" filepath="$PROJECT_DIR$/SpringInNuthsell.iml" />
     </modules>
   </component>
 </project>
